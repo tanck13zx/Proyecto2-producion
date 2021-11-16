@@ -8,7 +8,8 @@ Cada nivel será más dificil que el anterior y cada uno de ellos contará con u
 Es un proyecto pequeño pero que esperamos sea del agrado de todos. 
 
 El proyecto  por cuestiones de tiempo decidimos que se desarrollara en Arcademakecode ya que considereamos que es la forma de mas optima de 
-desarrollar el  juego  en los tiempos establecidos
+desarrollar el  juego  en los tiempos establecidos.
+https://arcade.makecode.com/
 
 
 Atte.  Monter Golem Studios 
