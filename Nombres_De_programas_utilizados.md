@@ -1,3 +1,0 @@
-Plataforma a utilizar  
-Arcademakecode
-
