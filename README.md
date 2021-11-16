@@ -12,4 +12,9 @@ desarrollar el  juego  en los tiempos establecidos.
 https://arcade.makecode.com/
 
 
+Integrantes 
+ºChristopher López Ramírez
+ºBrandon Ivan Martinez Garcia
+ºJhonatan Azuaela Zamarripa
+
 Atte.  Monter Golem Studios 
