@@ -13,8 +13,8 @@ https://arcade.makecode.com/
 
 
 Integrantes 
-ºChristopher López Ramírez
-ºBrandon Ivan Martinez Garcia
-ºJhonatan Azuaela Zamarripa
+Christopher López Ramírez
+Brandon Ivan Martinez Garcia
+Jhonatan Azuaela Zamarripa
 
 Atte.  Monter Golem Studios 
