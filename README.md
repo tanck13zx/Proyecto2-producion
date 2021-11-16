@@ -12,9 +12,12 @@ desarrollar el  juego  en los tiempos establecidos.
 https://arcade.makecode.com/
 
 
-Integrantes 
-Christopher López Ramírez
-Brandon Ivan Martinez Garcia
-Jhonatan Azuaela Zamarripa
+Integrantes:
+
+.Christopher López Ramírez
+
+.Brandon Ivan Martinez Garcia
+
+.Jhonatan Azuaela Zamarripa
 
 Atte.  Monter Golem Studios 
