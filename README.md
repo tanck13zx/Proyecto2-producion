@@ -18,6 +18,6 @@ Integrantes:
 
 .Brandon Ivan Martinez Garcia
 
-.Jhonatan Azuaela Zamarripa
+.Jhonatan Azuela Zamarripa
 
 Atte.  Monter Golem Studios 
